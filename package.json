@@ -1,0 +1,11 @@
+{
+  "name": "swanson-swag-server",
+  "version": "1.0.0",
+  "description": "Ron Swanson quote app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Hibbard",
+  "license": "ISC"
+}
